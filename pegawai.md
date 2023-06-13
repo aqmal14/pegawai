@@ -1,4 +1,4 @@
-package dataset;
+package jurnal;
 
 import java.util.ArrayList;
 
@@ -9,7 +9,7 @@ import java.util.ArrayList;
  */
 /**
  *
- * @author aldinara
+ * @author aqmalshadik
  */
 public class dataSetEmployee {
     private ArrayList<String> nip;
